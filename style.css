@@ -1,0 +1,18 @@
+.carta{
+width: 50%;
+height: 98%;
+background: black;
+border-radius: 5vh;
+box-shadow: 10px 10px 10px 10px rgb(253, 4, 66);
+background-image: url(https://i.pinimg.com/originals/88/1e/97/881e975af06ff67857544c7b64e65cbc.gif);
+}
+
+H1{
+    color: white;
+}
+p{
+    color: white;
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/70/67/c2/7067c29f2c2336c23c827cfda44e7c61.gif);
+}
